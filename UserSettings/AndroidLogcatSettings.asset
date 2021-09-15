@@ -2,8 +2,8 @@
     "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
-        "name": "ca.georgegrown.game2014_W2_Lab",
-        "processId": 3096,
+        "name": "ca.GeorgeBrown.W2_Lab",
+        "processId": 2884,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,18 @@
             "deviceId": "emulator-5554",
             "name": "ca.georgegrown.game2014_W2_Lab",
             "processId": 3096,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 2977,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.GeorgeBrown.W2_Lab",
+            "processId": 2884,
             "exited": false
         }
     ],
